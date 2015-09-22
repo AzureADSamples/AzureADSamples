@@ -3,4 +3,4 @@ Hey there! This repo is here to inform you that the AzureADSamples org has been 
 
 If you are new to AzureAD and want to try it out, https://aka.ms/aaddev will be the best place to start.
 
-Thanks for your interest and contributions to the AzureAD community.  Please tweet us @AzureAD if you have any questions.
+Thanks for your interest and contributions to the AzureAD community.  Please tweet us [@AzureAD](https://twitter.com/azuread) if you have any questions.
